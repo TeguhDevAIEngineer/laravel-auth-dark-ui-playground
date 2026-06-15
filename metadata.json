@@ -1,0 +1,6 @@
+{
+  "name": "Laravel Auth & Aesthetic Dark UI",
+  "description": "An interactive playground showcasing aesthetic dark mode design principles and Laravel backend authentication workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
